@@ -1,0 +1,65 @@
+.photos{
+    display: flex;
+    flex-direction: row;
+}
+.photos img{
+    max-height: 20%;
+    max-width: 24%;
+    padding: 0px 15px 0px 15px;
+    
+}
+.yellow{
+    font-size: 12px;
+    height: 200px;
+    width: 250px;
+    overflow: hidden;
+}
+.orange{
+    font-size: 12px;
+    height: 200px;
+    width: 250px;
+    overflow: hidden;
+}
+.red{
+    font-size: 12px;
+    height: 200px;
+    width: 250px;
+    overflow: hidden;
+}
+.text2{
+    padding: 0px 10px 0px 10px;
+    display: flex;
+    flex-direction: row;
+}
+.text2 h1{
+    font-size: 15px;
+}
+i{
+    font-size: 150px;
+}
+.icons a{
+    text-decoration: none;
+    padding: 0px 200px 0px 0px;
+}
+.blue{
+    color: blue;
+}
+.icons{
+    width: 80%;
+}
+a :hover{
+    font-size: 170px;
+    transition: 0.4s;
+}
+.text2 :hover{
+    transition: 0.4s;
+    font-size: 14px;
+    overflow: auto;
+    color: chartreuse;
+    opacity: 80%;
+}
+body{
+    background-image: url(https://www.pixel4k.com/wp-content/uploads/2019/04/peaceful-blur-background-4k_1555207903.jpg);
+    
+}
+a spin-animation :hover{
